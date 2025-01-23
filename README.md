@@ -1,7 +1,7 @@
 # 👋 Bem-vindo ao meu perfil
 🎯 Eu sou Felipe Catarossi, um estudante de programação apaixonado pela área
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/Catarossi/github-readme-stats">
     <img width=423 align="center" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=midnight-purple" />
   </a>
