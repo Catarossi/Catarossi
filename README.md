@@ -1,14 +1,21 @@
 # 👋 Bem-vindo ao meu perfil
 🎯 Eu sou Felipe Catarossi, um estudante de programação apaixonado pela área
 
-<div style="display: flex">
-  <a href="https://github.com/Catarossi/github-readme-stats">
-    <img width=423 align="center" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/Catarossi/convoychat">
-    <img width=423 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Catarossi&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Catarossi/github-readme-stats">
+        <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=midnight-purple" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Catarossi/convoychat">
+        <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Catarossi&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
   <div style="display: inline_block;>
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -25,3 +32,15 @@
       <a href="mailto:felipecatarossi.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/felipecatarossi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/Catarossi/github-readme-stats">
+    <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/Catarossi/convoychat">
+    <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Catarossi&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+  </a>
+</div>
+
+
+  
