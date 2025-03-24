@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e61224"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
 📌Cursando Análise e Desenvolvimento de Sistemas. <br>
@@ -29,8 +29,8 @@
 ##
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=midnight-purple" alt="Felipe Catarossi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Catarossi&layout=compact&langs_count=10&card_width=320&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Catarossi&theme=shadow_red" alt="Felipe Catarossi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Catarossi&layout=compact&langs_count=10&card_width=320&theme=shadow_red" />
   
 </div>
 
